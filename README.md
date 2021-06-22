@@ -8,6 +8,6 @@
 
  1) Inspected how information is structured in Vivareal's site
  2) Using 'requests' module, accessed it 
- 3) Using some logic, processed the info and saved it to a datafram
+ 3) Using some logic, processed the info and saved it to a dataframe
  3) Using some logic, crawled all pages that have the results i want to
  4) saved all the gathered data to a csv file
